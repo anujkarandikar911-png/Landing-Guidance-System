@@ -21,7 +21,7 @@ zones and provides real-time alerts to guide safe landing/navigation.
 
 ---
 
-## ⚙️ System Architecture
+##  System Architecture
 
 ### Modules
 
@@ -40,7 +40,7 @@ zones and provides real-time alerts to guide safe landing/navigation.
 
 ---
 
-## 🔌 Inputs & Outputs
+##  Inputs & Outputs
 
 | Port       | Direction | Description                         |
 |------------|-----------|-------------------------------------|
@@ -62,7 +62,7 @@ zones and provides real-time alerts to guide safe landing/navigation.
 
 ---
 
-## 🛠️ Tools & Technology
+##  Tools & Technology
 
 - **Language:** VHDL
 - **Target:** FPGA (100 MHz clock)
